@@ -3,12 +3,13 @@
 ## Overview
 
 This project is an Artificial Neural Network (ANN)-based model for predicting customer churn in a financial institution. The model is trained on a dataset containing customer information, including demographics, account details, and transaction history.
-To try out the model - [streamlitApp]((https://annclassificationbank-dlg6uukczpbsbgwypmhjz7.streamlit.app/))
+To try out the model - [streamlitApp](https://annclassificationbank-dlg6uukczpbsbgwypmhjz7.streamlit.app/)
+
 ## Dataset
 
 The dataset consists of 10,000 rows and 14 columns, containing the following features:
 
-- **RowNumber**: Index of the row
+- **RowNumber**: Index of the rows
 - **CustomerId**: Unique ID assigned to each customer
 - **Surname**: Customer's surname
 - **CreditScore**: Customer's credit score
@@ -66,5 +67,5 @@ The model achieves an accuracy of approximately **90%** on the test set.
 
 ## Author
 
-[Chiragjjjks]((https://github.com/Chiragjjjks))
+[Chiragjjjks](https://github.com/Chiragjjjks)
 
