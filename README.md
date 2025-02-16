@@ -47,8 +47,8 @@ Make sure you have Python installed. It is recommended to use a virtual environm
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/churn-prediction.git
-   cd churn-prediction
+   git clone https://github.com/Chiragjjjks/ANN_classification_bank
+   cd ANN_classification_bank
    ```
 2. Create a virtual environment (optional but recommended):
    ```sh
