@@ -68,32 +68,6 @@ The ANN model consists of the following layers:
 - Hidden Layers: Multiple dense layers with ReLU activation
 - Output Layer: Sigmoid activation for binary classification
 
-## Training the Model
-
-Run the training script to train the ANN model:
-
-```sh
-python src/train.py
-```
-
-## Evaluating the Model
-
-After training, evaluate the model using:
-
-```sh
-python src/evaluate.py
-```
-
-## Usage
-
-To use the trained model for predictions:
-
-```python
-from src.model import predict
-prediction = predict(customer_data)
-print(prediction)
-```
-
 ## Results
 
 The model achieves an accuracy of approximately **90%** on the test set.
