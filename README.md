@@ -26,14 +26,6 @@ The dataset consists of 10,000 rows and 14 columns, containing the following fea
 ## Project Structure
 
 ```
-├── data/                  # Dataset files
-├── models/                # Saved model files
-├── notebooks/             # Jupyter Notebooks for EDA and model development
-├── src/                   # Source code for training and evaluation
-│   ├── preprocess.py      # Data preprocessing scripts
-│   ├── model.py           # ANN model definition
-│   ├── train.py           # Model training script
-│   ├── evaluate.py        # Model evaluation script
 ├── requirements.txt       # Required Python libraries
 ├── README.md              # Project documentation
 ├── .gitignore             # Files to ignore in Git
